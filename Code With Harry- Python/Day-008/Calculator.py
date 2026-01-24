@@ -1,0 +1,12 @@
+print("Enter first no")
+a= int(input())
+print("Enter second no")
+b= int(input())
+print("The addition of no is",  a+b)
+print("The sub of no is",  a-b)
+print("The mul of no is",  a*b)
+print("The div of no is",  a/b)
+print("The modulus of no is",  a%b)
+print("The floor div of no is",  a//b)
+print("The exponention of no is",  a**b)
+
