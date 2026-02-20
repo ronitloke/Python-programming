@@ -1,0 +1,5 @@
+tup=(4,5,1,78,34,87,2,"true", 12.4)
+print(type(tup))
+print(len(tup))
+print(tup[4])
+print(tup[-3])
