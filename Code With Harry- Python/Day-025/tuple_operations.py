@@ -1,0 +1,8 @@
+countries=("Bharat","spain","russia","germany","austrila")
+temp= list(countries)
+temp.remove("russia")
+temp.append(("ukraine"))
+temp.pop(2)
+print(temp)
+temp=tuple(countries)
+print(temp)
