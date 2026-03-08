@@ -1,0 +1,9 @@
+a={100,200,300,400}
+b={200,300,600,700}
+print(a.difference(b))
+print(b.difference(a))
+print(a.isdisjoint(b))
+print(a.issubset(b))
+print(a.issuperset(b))
+a.clear()
+print(a)
