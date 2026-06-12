@@ -1,0 +1,5 @@
+f=open("p4.py","r")
+data=f.read()
+print(f)
+print(data)
+f.close()
